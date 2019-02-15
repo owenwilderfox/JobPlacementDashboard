@@ -12,3 +12,4 @@
 * Limit JPApplications/Create View to Authenticated Users Only
 * Remove About and Contact Views and Functions from Views/Home Folder and Controller
 ## Additional Skills I Learned
+* How to work on a team of developers, using Azure DevOps and Slack.
