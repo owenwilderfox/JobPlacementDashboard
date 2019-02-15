@@ -4,6 +4,7 @@
 * Style Changes to Navbar
 * Style Changes to JPBulletins/Index View
 ## Back-End Stories
+* Add Display Names to JPApplication Model Properties
 * Create Constructor Method for JPApplication Model
 * Create Controllers for JPMeetupGroups and JPOUtsideContacts with Scaffolded Views
 * Edit DeleteConfirmed Method on the JPStudentController: Deletion of JPStudent Also Deletes Associated JPChecklist
