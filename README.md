@@ -2,3 +2,4 @@
 ## Introduction
 ## Front-End Stories
 ## Back-End Stories
+## Additional Skills I Learned
