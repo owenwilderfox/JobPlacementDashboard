@@ -1,6 +1,6 @@
 # Job Placement Dashboard Retrospective
 ## Introduction
-For my live project, I worked on a MVC program in C# for the Job Placement department. This project gave me invaluable experience working as a team, both in-person and remotely, and researching unfamiliar skills. I also had the opportunity to take on new challenges as a junior developer and how to be both flexible and curious when approaching the debugging process.
+For my two-week live project, I worked on a C# MVC program using the Code-First Entity Framework for the Job Placement department. This project gave me invaluable experience working as a team, both in-person and remotely, and researching unfamiliar skills. I also had the opportunity to take on new challenges as a junior developer and how to be both flexible and curious when approaching the debugging process.
 
 ## Front-End Stories
 ### Style Changes to Navbar
@@ -9,7 +9,7 @@ This task required making changes to the Site.css so that the background color o
 ![](jobplacement-dashboard.jpg)
 
 ### Style Changes to JPBulletins/Index View
-This front-end story uses Bootstrap 3 to create a card-like grid in the JPBulletins Index view.
+This front-end story uses Bootstrap 3 to create a card-like grid in the JPBulletins Index view. 
 
 ![](3604.PNG)
 
@@ -20,6 +20,8 @@ My task was to add display names to the JPApplicaton model properties so that th
 ![](3651.PNG)
 
 ### Create Controllers for JPMeetupGroups and JPOutsideContacts with Scaffolded Views
+This story asked me to create new controllers for JPMeetUps and JPOutsideContacts with scaffolded views.
+
 ### Edit DeleteConfirmed Method on the JPStudentController: Deletion of JPStudent Also Deletes Associated JPChecklist
 
 ![](3562.PNG)
