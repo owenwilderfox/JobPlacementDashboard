@@ -2,7 +2,9 @@
 ## Introduction
 ## Front-End Stories
 * Style Changes to Navbar
-* Style Changes to JPBulletins/Index View
+### Style Changes to JPBulletins/Index View
+![](3604.PNG)
+
 ## Back-End Stories
 ### Add Display Names to JPApplication Model Properties
 ### Create Constructor Method for JPApplication Model
