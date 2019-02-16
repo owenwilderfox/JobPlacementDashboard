@@ -10,7 +10,8 @@
 * Edit DeleteConfirmed Method on the JPStudentController: Deletion of JPStudent Also Deletes Associated JPChecklist
 * Edit HTTP:POST Method in JPChecklistController: Create JPMessage When 80% of Checklist Is Completed
 ### Limit JPApplications/Create View to Authenticated Users Only
-My task was to limit the JPApplications/Create View authenticated users only.
+My task was to limit the JPApplications/Create View authenticated users only. I originally researched how to do this by assigning Admin and User roles in our application but ultimately went with this quick line of code:
+
 
 ### Remove About and Contact Views and Functions from Views/Home Folder and Controller
 I removed unnecessary About and Contact views and functions from the home folder and controller.
