@@ -13,7 +13,7 @@ This story was multi-part: it was first necessary to create the JPNotificationsC
 
 While working with my project managers, we realized that the table was created incorrectly during the project initialization and it required us to shift gears, create a new table, and the code was re-written for JPMessages.
 
-![](3564.PNGstyle=centerme)
+![](3564.PNG)
 
 ### Limit JPApplications/Create View to Authenticated Users Only
 My task was to limit the JPApplications/Create view authenticated users only.
