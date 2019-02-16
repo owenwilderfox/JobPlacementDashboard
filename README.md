@@ -11,6 +11,7 @@
 * Edit HTTP:POST Method in JPChecklistController: Create JPMessage When 80% of Checklist Is Completed
 * Limit JPApplications/Create View to Authenticated Users Only
 * Remove About and Contact Views and Functions from Views/Home Folder and Controller
+
 I removed unneeded views and functions from the home folder and controller.
 ## Additional Skills I Learned
 * How to work on a team of developers using Azure DevOps, Slack, and Visual Studio.
