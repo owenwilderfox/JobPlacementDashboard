@@ -27,7 +27,7 @@ This story asked me to create new controllers for JPMeetUps and JPOutsideContact
 ![](3562.PNG)
 
 ### Edit DeleteConfirmed Method on the JPStudentController: Deletion of JPStudent Also Deletes Associated JPChecklist
-For this story, I edited the DeleteConfirmed Method on the JPStudentController so that it would also find the associated JPChecklist for that student and delete it at as well. To test this, I originally researched and wrote a seed method for the database, believing that I was unable to add students until another teammember finished writing a loosely related User/Admin roles story. Ultimately, however, I found that I was able to by-pass this by entering an alternative view.
+For this story, I edited the DeleteConfirmed Method on the JPStudentController so that it would also find the associated JPChecklist for that student and delete it at as well. To test this, I originally researched and wrote a seed method for the database, believing that I was unable to add students until another teammember finished writing a loosely related User/Admin roles story. Ultimately, however, I found that I was able to by-pass this by entering an alternative view and testing went quickly after that.
 
 ![](jpchecklist.png)
 
