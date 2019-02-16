@@ -7,6 +7,8 @@
 
 ## Back-End Stories
 ### Add Display Names to JPApplication Model Properties
+![](3651.PNG)
+
 ### Create Constructor Method for JPApplication Model
 ### Create Controllers for JPMeetupGroups and JPOutsideContacts with Scaffolded Views
 ### Edit DeleteConfirmed Method on the JPStudentController: Deletion of JPStudent Also Deletes Associated JPChecklist
