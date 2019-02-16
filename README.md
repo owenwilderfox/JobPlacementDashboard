@@ -13,3 +13,4 @@
 * Remove About and Contact Views and Functions from Views/Home Folder and Controller
 ## Additional Skills I Learned
 * How to work on a team of developers using Azure DevOps, Slack, and Visual Studio.
+* How to debug with a remote team member.
