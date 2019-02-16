@@ -3,6 +3,7 @@
 ## Front-End Stories
 ### Style Changes to Navbar
 This task required making changes to the Site.css so that the background color of the Job Placement Dashboard navbar matched the navbar in the Student LMS.
+
 ![](jobplacement-dashboard.jpg)
 
 ### Style Changes to JPBulletins/Index View
