@@ -11,6 +11,8 @@
 ### Edit HTTP:POST Method in JPChecklistController: Create Notification When More Than 5 Checklist Items Have Been Completed
 This story was multi-part: it was first necessary to create the JPNotificationsController with scaffolded views around the existing JPNotifications model. From there, I wrote code to count the amount of items marked off in a checklist after it has been edited; if more than 5 items have been marked as completed, a new JPNotification entry would have been created and appear in the JPNotification view for the Job Placement administrator. 
 
+![](3564-2.PNG)
+
 While working with my project managers, we realized that the table was created incorrectly during the project initialization and it required us to shift gears, create a new table, and the code was re-written for JPMessages.
 
 ![](3564.PNG)
