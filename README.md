@@ -14,7 +14,7 @@ This story was multi-part: it was first necessary to create the JPNotificationsC
 While working with my project managers, we realized that the table was created incorrectly during the project initialization and it required us to shift gears, create a new table, and the code was re-written for JPMessages.
 
 ### Limit JPApplications/Create View to Authenticated Users Only
-My task was to limit the JPApplications/Create View authenticated users only.
+My task was to limit the JPApplications/Create view authenticated users only.
 
 ### Remove About and Contact Views and Functions from Views/Home Folder and Controller
 I removed unnecessary About and Contact views and functions from the home folder and controller.
