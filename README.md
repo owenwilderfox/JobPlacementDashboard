@@ -33,7 +33,7 @@ While working with my project managers, we realized that the table was created i
 ![](3564.PNG)
 
 ### Limit JPApplications/Create View to Authenticated Users Only
-My task was to limit the JPApplications/Create view authenticated users only.
+My task was to limit the JPApplications/Create view authenticated users only. If users are not logged in, they are sent to an error page that can be customized at a later date by students in the next sprint.
 
 ![](3592.PNG)
 
