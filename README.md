@@ -1,9 +1,9 @@
 # Job Placement Dashboard Retrospective
-## Introduction
-## Front-End Stories
+### Introduction
+### Front-End Stories
 * Style Changes to Navbar
 * Style Changes to JPBulletins/Index View
-## Back-End Stories
+### Back-End Stories
 * Add Display Names to JPApplication Model Properties
 * Create Constructor Method for JPApplication Model
 * Create Controllers for JPMeetupGroups and JPOutsideContacts with Scaffolded Views
@@ -13,6 +13,6 @@
 * Remove About and Contact Views and Functions from Views/Home Folder and Controller
 
 I removed unneeded views and functions from the home folder and controller.
-## Additional Skills I Learned
+### Additional Skills I Learned
 * How to work on a team of developers using Azure DevOps, Slack, and Visual Studio.
 * How to debug with a remote team member.
