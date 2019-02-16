@@ -1,5 +1,7 @@
 # Job Placement Dashboard Retrospective
 ## Introduction
+For my live project, I worked on a MVC program in C# for the Job Placement department. This project gave me invaluable experience working as a team, both in-person and remotely, and researching unfamiliar skills. I also had the opportunity to take on new challenges as a junior developer.
+
 ## Front-End Stories
 ### Style Changes to Navbar
 This task required making changes to the Site.css so that the background color of the Job Placement Dashboard navbar matched the navbar in the Student LMS.
