@@ -28,7 +28,7 @@ This story was multi-part: it was first necessary to create the JPNotificationsC
 
 ![](3564-2.PNG)
 
-While working with my project managers, we realized that the table was created incorrectly during the project initialization and it required us to shift gears, create a new table, and the code was re-written for JPMessages.
+While debugging with my project managers and another developer, we realized that the table was created incorrectly during the project initialization and it required us to shift gears, create a new table, and the code was re-written for JPMessages.
 
 ![](3564.PNG)
 
