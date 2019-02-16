@@ -3,6 +3,8 @@
 ## Front-End Stories
 * Style Changes to Navbar
 ### Style Changes to JPBulletins/Index View
+This front-end story uses Bootstrap 3 to create a card-like grid in the JPBulletins Index view.
+
 ![](3604.PNG)
 
 ## Back-End Stories
