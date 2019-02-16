@@ -9,9 +9,12 @@
 * Create Controllers for JPMeetupGroups and JPOutsideContacts with Scaffolded Views
 * Edit DeleteConfirmed Method on the JPStudentController: Deletion of JPStudent Also Deletes Associated JPChecklist
 * Edit HTTP:POST Method in JPChecklistController: Create JPMessage When 80% of Checklist Is Completed
-* Limit JPApplications/Create View to Authenticated Users Only
+### Limit JPApplications/Create View to Authenticated Users Only
+My task was to limit the JPApplications/Create View authenticated users only.
+
 ### Remove About and Contact Views and Functions from Views/Home Folder and Controller
-I removed unneeded views and functions from the home folder and controller.
+I removed unnecessary About and Contact views and functions from the home folder and controller.
+
 ## Additional Skills I Learned
 * How to work on a team of developers using Azure DevOps, Slack, and Visual Studio.
 * How to debug with a remote team member.
