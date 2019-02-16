@@ -17,7 +17,6 @@ My task was to add display names to the JPApplicaton model properties so that th
 
 ![](3651.PNG)
 
-### Create Constructor Method for JPApplication Model
 ### Create Controllers for JPMeetupGroups and JPOutsideContacts with Scaffolded Views
 ### Edit DeleteConfirmed Method on the JPStudentController: Deletion of JPStudent Also Deletes Associated JPChecklist
 
