@@ -7,7 +7,7 @@
 
 ## Back-End Stories
 ### Add Display Names to JPApplication Model Properties
-My task was to add display names to the JPApplicaton model properties.
+My task was to add display names to the JPApplicaton model properties so that the data organization would be neat and easier to read in the view.
 
 ![](3651.PNG)
 
