@@ -20,6 +20,8 @@ While working with my project managers, we realized that the table was created i
 ### Limit JPApplications/Create View to Authenticated Users Only
 My task was to limit the JPApplications/Create view authenticated users only.
 
+![](3592.PNG)
+
 ### Remove About and Contact Views and Functions from Views/Home Folder and Controller
 I removed unnecessary About and Contact views and functions from the home folder and controller.
 
