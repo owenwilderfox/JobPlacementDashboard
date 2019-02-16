@@ -7,6 +7,7 @@
 
 ## Back-End Stories
 ### Add Display Names to JPApplication Model Properties
+My task was to add display names to the JPApplicaton model properties.
 ![](3651.PNG)
 
 ### Create Constructor Method for JPApplication Model
