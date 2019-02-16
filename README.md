@@ -8,7 +8,8 @@
 ### Create Constructor Method for JPApplication Model
 ### Create Controllers for JPMeetupGroups and JPOutsideContacts with Scaffolded Views
 ### Edit DeleteConfirmed Method on the JPStudentController: Deletion of JPStudent Also Deletes Associated JPChecklist
-### Edit HTTP:POST Method in JPChecklistController: Create JPMessage When 80% of Checklist Is Completed
+### Edit HTTP:POST Method in JPChecklistController: Create Notification When More Than 5 Checklist Items Have Been Completed
+This story was multi-part: it was first necessary to create the JPNotificationsController with scaffolded views around the existing JPNotifications model. From there, I wrote code to count the amount of items marked off in a checklist after it has been edited; if more than 5 items have been marked as completed, a new JPNotification entry is created in the database table and appears in the JPNotification view.
 
 ### Limit JPApplications/Create View to Authenticated Users Only
 My task was to limit the JPApplications/Create View authenticated users only.
