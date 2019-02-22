@@ -1,6 +1,6 @@
 # Job Placement Dashboard Retrospective
 ## Introduction
-For my two-week live project, I worked on a C# MVC program using the Code-First Entity Framework for the Job Placement department. This project gave me invaluable experience working as a team, both in-person and remotely, and researching unfamiliar skills. I also had the opportunity to take on new challenges as a junior developer and how to be both flexible and curious when approaching the debugging process.
+For my two-week live project, I worked on an ASP.NET MVC program using the Code-First Entity Framework for the Job Placement department. This project gave me invaluable experience working as a team, both in-person and remotely, and researching unfamiliar skills. I also had the opportunity to take on new challenges as a junior developer and how to be both flexible and curious when approaching the debugging process.
 
 Below are screenshots and descriptions of the stories that I worked on during our sprint.
 
